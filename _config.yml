@@ -2,9 +2,9 @@ title:              Yajie Blog
 email:              yajie0408@gmail.com
 description:        A Blog Theme by Start Bootstrap
 author:             Yajie Wu
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
-theme:              minima
+#baseurl:            "/startbootstrap-clean-blog-jekyll"
+url:                "https://http://yajiewu.github.me/"
+remote-theme:        jekyll-theme-clean-blog
 
 # Social Profiles
 twitter_username:   SBootstrap
