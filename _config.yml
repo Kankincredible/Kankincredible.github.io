@@ -1,17 +1,17 @@
 title:              Yajie Blog
 email:              yajie0408@gmail.com
-description:        A Blog Theme by Start Bootstrap
+description:        Hey there
 author:             Yajie Wu
 #baseurl:            "/startbootstrap-clean-blog-jekyll"
 url:                "https://http://yajiewu.github.me/"
 remote-theme:        jekyll-theme-clean-blog
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
-instagram_username:  
-linkedin_username:
+twitter_username:   
+github_username:    Kankincredible
+facebook_username:  
+instagram_username:  iamkankin
+linkedin_username: yajiewu
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
