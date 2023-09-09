@@ -4,7 +4,7 @@ description:        A Blog Theme by Start Bootstrap
 author:             Yajie Wu
 baseurl:            "/startbootstrap-clean-blog-jekyll"
 url:                "https://startbootstrap.github.io"
-theme:              jekyll-theme-clean-blog
+theme:              minima
 
 # Social Profiles
 twitter_username:   SBootstrap
