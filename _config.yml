@@ -1,10 +1,10 @@
-title:              Clean Blog
-email:              your-email@example.com
+title:              Yajie Blog
+email:              yajie0408@gmail.com
 description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+author:             Yajie Wu
 baseurl:            "/startbootstrap-clean-blog-jekyll"
 url:                "https://startbootstrap.github.io"
-remote_theme:  jekyll-theme-clean-blog
+theme:              jekyll-theme-clean-blog
 
 # Social Profiles
 twitter_username:   SBootstrap
