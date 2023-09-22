@@ -3,7 +3,7 @@ email:              yajie0408@gmail.com
 description:        Hey there
 author:             Yajie Wu
 #baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://http://yajiewu.github.me/"
+url:                "https://yajiewu.github.me/"
 remote-theme:        jekyll-theme-clean-blog
 
 # Social Profiles
