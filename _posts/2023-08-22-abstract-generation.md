@@ -4,6 +4,7 @@ title: "Project: Abstract Generation on arXiv Research Papers"
 subtitle: "Empowering Research: Leveraging Advanced NLP for Abstract Generation"
 author: "Yajie Wu"
 header-style: text
+background: '/img/posts/2023-08-22.jpg'
 tags:
   - NLP
 ---
