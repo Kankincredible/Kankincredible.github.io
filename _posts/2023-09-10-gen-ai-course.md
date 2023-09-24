@@ -10,8 +10,6 @@ tags:
   - LLM
 ---
 
-# Main Takeaways from DeepLearning.ai's Generative AI with Large Language Models Course
-
 Having embarked on the journey through DeepLearning.ai’s “Generative AI with Large Language Models” course, it’s evident that the realm of Generative AI is vast, progressive, and intensely applicative. The course intricately untangles the complexities associated with Large Language Models (LLMs), offering profound insights into their applicability and optimization.
 
 ## 1. **Comprehensive Understanding of LLMs:**
